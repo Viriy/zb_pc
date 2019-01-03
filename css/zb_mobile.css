@@ -175,7 +175,7 @@ td{padding:0.213333rem 0.133333rem}
 
 .trace_info{background:url(../images/mobile/bg.jpg) 50% no-repeat}
 .trace_info img{width:3.04rem;height:3.04rem;border:0.053333rem solid #b88d6f;position:relative;margin:0.72rem 0.666667rem}
-.trace_info .img:before{content:'';position:absolute;left:50%;top:50%;width:4.346667rem;height:4.4rem;margin-left:-2.173333rem;margin-top:-2.2rem;background:url('../images/mobile/img_bg.png') 50% no-repeat;background-size:cover}
+.trace_info .img:before{content:'';position:absolute;left:50%;top:50%;width:4.346667rem;height:4.4rem;margin-left:-2.173333rem;margin-top:-2.2rem;background:url('../images/mobile/img_bg.png') 50% no-repeat;background-size:cover;z-index: 6}
 .trace_info .txt_wrap{width:4.32rem;padding-top:0.426667rem;}
 .trace_info .txt_wrap p{padding:0.266667rem 0;border-bottom:0.013333rem solid #34af35;line-height:1em}
 .trace_info .txt_wrap em{width:2.0rem;margin-left:-0.106667rem}
