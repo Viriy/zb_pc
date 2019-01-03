@@ -17,7 +17,7 @@
 html,body,div,span,object,iframe,h1,h2,h3,h4,h5,h6,p,blockquote,pre,abbr,address,cite,code,del,dfn,em,img,ins,kbd,q,samp,small,strong,sub,sup,var,em,b,i,u,s,dl,dt,dd,ol,ul,li,a,input,select,textarea,fieldset,form,label,legend,table,caption,tbody,tfoot,thead,tr,th,td,article,aside,dialog,canvas,details,figcaption,figure,footer,header,hgroup,menu,nav,section,summary,time,mark,audio,video{font-family:Helvetica,"STHeiti STXihei","Microsoft JhengHei","Microsoft YaHei",Tohoma,Arial;margin:0;padding:0;-webkit-box-sizing:border-box;-moz-box-sizing:border-box;box-sizing:border-box}
 h1,h2,h3,h4,h5,h6{font-weight:300}
 .arial,.arial a,.count em{font-family:Arial}
-body{font-size:0.346667rem;color:#666;cursor:default;max-width:640px;background:#f3fff9}
+body{font-size:0.346667rem;color:#666;cursor:default;max-width:640px;background:#f3fff9;visibility: hidden}
 time{display:block}
 
 
